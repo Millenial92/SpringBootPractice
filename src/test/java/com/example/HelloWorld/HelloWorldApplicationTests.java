@@ -1,4 +1,4 @@
-package com.example.src.test.java.com.example.HelloWorld;
+package com.example.HelloWorld;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
